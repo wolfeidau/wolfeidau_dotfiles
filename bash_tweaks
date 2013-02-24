@@ -11,3 +11,5 @@ HISTIGNORE='ls:bg:fg:history'
 HISTTIMEFORMAT='%F %T '
 shopt -s cmdhist
 
+# editor
+export EDITOR=vim
